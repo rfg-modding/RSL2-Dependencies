@@ -1,0 +1,2 @@
+# RSL2 Dependencies
+Dependencies for RSL2 that can't be included via git submodules or are inconvenient to build. In a separate repo to minimize repo bloat on the main RSL2 repo since this will likely have some compiled binaries in it.
